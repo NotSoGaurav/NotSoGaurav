@@ -6,8 +6,11 @@
 
 
 🔭 Current Focus: Developing Nivaran, a wellness and addiction recovery web application.
+
 🌱 Learning Path: Deepening my knowledge in Python, Artificial Intelligence, and Machine Learning.
+
 🛡️ Cybersecurity: A beginner enthusiast focused on understanding system security and ethical hacking.
+
 🎮 Off-duty: When I'm not coding, you'll likely find me playing Valorant or Story mode games.
 
 
