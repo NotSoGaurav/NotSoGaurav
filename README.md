@@ -1,4 +1,5 @@
 Hi there, I'm Gaurav Tiwari! 👋
+
 👨‍💻 About Me
 I am a first-year Computer Science Engineering student at VIT Bhopal, passionate about leveraging technology to solve real-world problems. I enjoy building software that makes an impact and exploring the depths of modern computing.
 
