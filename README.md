@@ -17,6 +17,7 @@
 🚀 Key Projects
 Nivaran: A comprehensive platform dedicated to personal wellness and recovery.
 Link : https://nivaran-psi.vercel.app/
+
 Smart Study Planner: An organized scheduling tool designed for student productivity.
 
 
