@@ -1,4 +1,4 @@
-# Hi, I'm Gaurav Tiwari 👋
+# Hi, I'm Gaurav👋
 🎓 BTech CSE (Computer Science & Engineering)
 🏫 VIT Bhopal University
 📅 1st Year
